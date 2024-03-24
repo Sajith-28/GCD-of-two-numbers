@@ -1,3 +1,6 @@
+## NAME : SAJITH AHAMED F
+## REG NO: 212223240144
+## DATE : 23/03/2024
 
 # Find the GCD of two numbers
 
