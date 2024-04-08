@@ -18,23 +18,8 @@ To write a program to find the GCD of two numbers using function.
 4. Use for() and if() loop to find the GCD of the two numbers.
 
 ## Program:
-```
-def gcd():
-    n1=int(input())
-    n2=int(input())
-    if n1>n2:
-        smaller = n2
-    else:
-        smaller = n1
-    for i in range (1,smaller+1):
-        if(n1%i==0 and n2%i==0):
-           hcf=i
-    print("GCD of two numbers is:",hcf)
-
-```
 
 ## Output:
-<img width="960" alt="Screenshot 2024-03-24 150146" src="https://github.com/Sajith-28/GCD-of-two-numbers/assets/149937471/5dc8ecca-5aa8-4ad4-ac57-688afa11cc49">
 
 
 
